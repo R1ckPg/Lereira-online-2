@@ -1,0 +1,74 @@
+<!doctype html5>
+<html>
+    <head>
+        <meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title >Lareira Online</title>
+    </head>
+    <body>
+        <div id="topo">
+            <!-- começo do topo-->
+<h1><a href="index.html">Lareira Online</a></h1>
+
+
+        <!-- fim do  topo-->
+        </div>
+
+                <div id="link-direita">
+                    <!-- começo do link-direita-->
+
+                <h2>Mundos para Explorar</h2>
+                <ul>
+                <li><a href="MagicWorld.html">Magic World</a></li>
+                <li><a href="MediaeAdventum.html">Mediae Adventum</a></li>
+                <li><a href="Diablo.html">Diablo</a></li>
+                <li><a href="Mordorden.html">Mordorden</a></li>
+                </ul>
+                <!-- fim do  link-direita-->
+                </div>
+
+                                <div id="link-esquerda">
+                                    <!-- começo do link-esquerda-->
+                                <h2>Dicas</h2>
+
+                                <ul>
+                                <li><a href="https://www.fantasynamegenerators.com/">Como Definir o nome</a></li>
+                                <li><a href="https://inkarnate.com/">Como montar os Mapas</a></li>
+                                <li><a href="https://drive.google.com/file/d/1E2ngdtXIw2C9U9iTphyGNIWHIdrZmNzL/view?usp=sharing">Que monstros colocar e como criar</a></li>
+                                <li><a href="https://www.thievesguild.cc/">Como criar itens</a></li>
+                                <li><a href="http://www.meuspergaminhos.com/">O que devo adicionar</a></li>
+                                <li><a href="https://drive.google.com/file/d/1Y_RB2QzcuzNiBd8BFtnCdIopuzGQ2vE-/view?usp=share_link">O que deve ter no meu mundo</a></li>
+                                <li><a href="http://www.meuspergaminhos.com/">Como posso criar uma história</a></li>
+                                <li><a href="https://drive.google.com/file/d/1Y_RB2QzcuzNiBd8BFtnCdIopuzGQ2vE-/view?usp=share_link">Como criar bosses para o jogo</a></li>
+                </ul>
+
+                                <!-- fim do  link-esquerda-->
+                                </div>
+
+
+
+
+<div id="container">
+    <div id="conteudo">
+        <!-- começo do conteudo-->
+
+<h1></h1>
+
+
+
+    <!-- fim do  conteudo-->
+    </div>
+
+        <div id="contato">
+            <!-- começo do contato-->
+
+&copy; contato |
+(55) 98410-0776 |
+lareiraonline@uorak.com
+
+
+        <!-- fim do contato-->
+        </div>
+</div>
+    </body>
+</html>

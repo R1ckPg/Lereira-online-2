@@ -1,0 +1,103 @@
+body{
+font-family: "Georgia", fantasy;
+background: url('imagens/fundo.png');
+}
+#container{
+width: 820px;
+	margin: 15 auto;
+	border: solid #fffcc4 3px;
+}
+
+/*formatação do topo*/
+#topo {
+border: 1px solid blue;
+padding: 0 auto;
+margin: 15px;
+}
+#topo a {
+	text-decoration: none;
+	color: black;
+}
+
+/*formatação da direita e esquerda*/
+#link-direita{
+right: 15px;
+margin: 15px;
+position: fixed;
+}
+#link-esquerda h2{
+	padding-left: 100px;
+}
+#link-esquerda h2, #link-direita h2{
+	color: #fff;
+}
+#link-esquerda ul, #link-direita ul {
+	list-style-type: none;
+	width: 250px;
+}
+#link-esquerda ul a, #link-direita ul a {
+	text-decoration: none;
+	line-height: 20x;
+}
+#link-esquerda, #link-direita {
+	background: #9f2b69;
+	border: 3px solid #6b1b46;
+}
+#link-esquerda li a, #link-direita li a {
+display: block;
+padding: 15px;
+text-decoration: none;
+color: #fff;
+list-style: none;
+}
+#link-esquerda a:hover, #link-direita a:hover {
+	background: #b54782;
+}
+#link-direita a#select{
+	color: gray;
+}
+#link-esquerda{
+width: 300px;
+margin: 15px;
+position: fixed;
+float: left;
+}
+
+/*conteudo*/
+#conteudo {
+
+padding: 20px;
+font-family: GothicE, fantasy;
+}
+
+/*formatação de contato*/
+#contato{
+border: 1px solid black;
+padding: 15px;
+
+}
+
+#topo, #conteudo, #contato{
+
+	background: #fff;
+}
+a{
+	text-decoration: none;
+}
+#conteudo #personagens .itens{
+	float: right;
+	margin: 15px;
+}
+.dividir-Atos{
+	border-color: red;
+}
+#personagens a:link, #personagens a:visited {
+	color: purple;
+}
+#personagens a:hover{
+	color: #279c80;
+	font-family: "S";
+}
+#Atos{
+	font-family: "Seagram tfb", Seagram tfb, fantasy;
+}
